@@ -1,5 +1,5 @@
 ## Hello 👋 
-I currently work Software Developer at Avaya on the Spaces team. I am currently working mostly with React.
+I currently work as a Software Developer at Avaya on the Spaces team. I am currently working mostly with React.
 
 ## What is Avaya Spaces?
 Spaces is an app that centralizes your team conversations into one place. It supports all of today’s most preferred forms of communication like phone, email and chat.
