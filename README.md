@@ -1,4 +1,4 @@
-## Hello 👋 
+## Hello 👋 my name is Taulant but most people call me Tau
 I currently work as a Software Developer at Avaya on the Spaces team. I am currently working mostly with React.
 
 ## What is Avaya Spaces?
