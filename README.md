@@ -15,6 +15,8 @@ Even though most of my career I've worked as a Designer, I've always had a passi
 
 ⚡  Fun fact: I love camping and the great Canadian outdoors.
 
+![Taulant in Bruce Penninsula](https://tautau.co/assets/images/tautau.gif)
+
 <!--
 **taulant/taulant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
